@@ -7,8 +7,6 @@ author:
 # If you want to omit the line-break after the end of text, use `>-` instead.
 description: >
   Demo of a simple blog setup.
-  GitHub has made it appreciably less simple.
-  They seem to have changed how Jekyll blogs are set up several times, so all the docs are out of date.
 
 # Build settings
 
