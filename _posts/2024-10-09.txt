@@ -1,0 +1,5 @@
+---
+title: Test Date-only Filename
+layout: post
+---
+This page is to test whether Jekyll will render a page whose filename does not include a title.
